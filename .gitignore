@@ -1,0 +1,9 @@
+out/
+target/
+project/target/
+project/project/
+.bsp/
+.idea/
+.vscode/
+*.class
+*.log
